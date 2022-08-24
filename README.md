@@ -10,3 +10,6 @@ I have done several different projects and I'm interested in programming 💫.
 ![](https://github.com/HesamTarighi/HesamTarighi/blob/main/css-3.svg)
 ![](https://github.com/HesamTarighi/HesamTarighi/blob/main/vue-js-1.svg)
 -->
+
+- name: profile_stack
+  uses: gleich/profile_stack@v2.0.4
