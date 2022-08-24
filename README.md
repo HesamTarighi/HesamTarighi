@@ -1,4 +1,3 @@
-### Hi there 👋
 ![](https://github.com/HesamTarighi/HesamTarighi/blob/main/banner.jpg)
 
 I am Hesam Tarighi and I have 18 years old and I live in Iran, I am single,
