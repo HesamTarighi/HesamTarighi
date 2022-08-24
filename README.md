@@ -5,10 +5,10 @@ I'm Hesam Tarighi and I have 18 years old and I live in Iran 👦.
 I started the front-end almost 3 years ago and now I have mastered the front-end and back-end ⚡.
 I have done several different projects and I'm interested in programming 💫.
 
-Tech stack
+Technology Stack
 ---
-![](https://img.shields.io/badge/Html5-red?logo=html5&logoColor=000&style=Plastic)
-![](https://img.shields.io/badge/Css3-238cc4?logo=css3&logoColor=000&style=Plastic)
+![](https://img.shields.io/badge/Html5-red?logo=html5&logoColor=white&style=Plastic)
+![](https://img.shields.io/badge/Css3-238cc4?logo=css3&logoColor=white&style=Plastic)
 ![](https://badges.aleen42.com/src/tailwindcss.svg)
 ![](https://img.shields.io/badge/Sass-cf649a?logo=sass&logoColor=white&style=Plastic)
 ![](https://badges.aleen42.com/src/javascript.svg)
