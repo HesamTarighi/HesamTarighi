@@ -16,5 +16,5 @@ Tech stack
 ![](https://badges.aleen42.com/src/jquery.svg)
 ![](https://badges.aleen42.com/src/vue.svg)
 ![](https://badges.aleen42.com/src/node.svg)
-![](https://img.shields.io/badge/Electron-42A5F5?style=for-the-badge&logo=electron&logoColor=white&style=Plastic)
+![](https://img.shields.io/badge/Electron-42A5F5?logo=electron&logoColor=white&style=Plastic)
 ![](https://badges.aleen42.com/src/express.svg)
