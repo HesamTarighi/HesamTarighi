@@ -16,6 +16,6 @@ Tech stack
 ![](https://img.shields.io/badge/Jquery-1169ae?logo=jquery&logoColor=white&style=Plastic)
 ![](https://badges.aleen42.com/src/vue.svg)
 ![](https://badges.aleen42.com/src/node.svg)
-![](https://img.shields.io/badge/Mongodb-42A5F5?logo=mongo&logoColor=white&style=Plastic)
+![](https://img.shields.io/badge/Mongodb-42A5F5?logo=mongodb&logoColor=white&style=Plastic)
 ![](https://img.shields.io/badge/Electron-42A5F5?logo=electron&logoColor=white&style=Plastic)
 ![](https://img.shields.io/badge/Express-yellow?logo=express&logoColor=white&style=Plastic)
