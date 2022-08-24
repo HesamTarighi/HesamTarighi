@@ -8,7 +8,7 @@ I have done several different projects and I'm interested in programming 💫.
 Tech stack
 ---
 ![](https://img.shields.io/badge/Html5-red?logo=html5&logoColor=white&style=Plastic)
-![](https://img.shields.io/badge/Express-aqua?logo=css3&logoColor=white&style=Plastic)
+![](https://img.shields.io/badge/Css3-cyan?logo=css3&logoColor=white&style=Plastic)
 ![](https://badges.aleen42.com/src/tailwindcss.svg)
 ![](https://badges.aleen42.com/src/sass.svg)
 ![](https://badges.aleen42.com/src/javascript.svg)
