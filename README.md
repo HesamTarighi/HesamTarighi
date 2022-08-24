@@ -7,9 +7,12 @@ I have done several different projects and I'm interested in programming 💫.
 
 Tech stack
 ---
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=javascript&logoColor=white)
+![](https://badges.aleen42.com/src/html.svg)
+![](https://badges.aleen42.com/src/css.svg)
+![](https://badges.aleen42.com/src/tailwind.svg)
+![](https://badges.aleen42.com/src/sass.svg)
+![](https://badges.aleen42.com/src/javascript.svg)
+![](https://badges.aleen42.com/src/typescript.svg)
+![](https://badges.aleen42.com/src/jquery.svg)
 ![](https://badges.aleen42.com/src/vue.svg)
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=nuxt&logoColor=white)
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=nodejs&logoColor=white)
+![](https://badges.aleen42.com/src/nuxt.svg)
