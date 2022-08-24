@@ -11,5 +11,16 @@ I have done several different projects and I'm interested in programming 💫.
 ![](https://github.com/HesamTarighi/HesamTarighi/blob/main/vue-js-1.svg)
 -->
 
-- name: profile_stack
-  uses: gleich/profile_stack@v2.0.4
+name: stack
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  profile_stack:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gleich/profile_stack@master
