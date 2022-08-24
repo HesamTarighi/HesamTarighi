@@ -7,8 +7,8 @@ I have done several different projects and I'm interested in programming 💫.
 
 Tech stack
 ---
-![](https://badges.aleen42.com/src/html5.svg)
-![](https://badges.aleen42.com/src/css3.svg)
+![](https://img.shields.io/badge/Html5-red?logo=html5&logoColor=white&style=Plastic)
+![](https://img.shields.io/badge/Express-aqua?logo=css3&logoColor=white&style=Plastic)
 ![](https://badges.aleen42.com/src/tailwindcss.svg)
 ![](https://badges.aleen42.com/src/sass.svg)
 ![](https://badges.aleen42.com/src/javascript.svg)
@@ -16,5 +16,5 @@ Tech stack
 ![](https://badges.aleen42.com/src/jquery.svg)
 ![](https://badges.aleen42.com/src/vue.svg)
 ![](https://badges.aleen42.com/src/node.svg)
-![](https://img.shields.io/badge/Electron.js-42A5F5?logo=electron&logoColor=white&style=Plastic)
-![](https://img.shields.io/badge/Express.js-yellow?logo=express&logoColor=white&style=Plastic)
+![](https://img.shields.io/badge/Electron-42A5F5?logo=electron&logoColor=white&style=Plastic)
+![](https://img.shields.io/badge/Express-yellow?logo=express&logoColor=white&style=Plastic)
