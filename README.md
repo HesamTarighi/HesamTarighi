@@ -15,4 +15,6 @@ Tech stack
 ![](https://badges.aleen42.com/src/typescript.svg)
 ![](https://badges.aleen42.com/src/jquery.svg)
 ![](https://badges.aleen42.com/src/vue.svg)
-![](https://badges.aleen42.com/src/nuxt.svg)
+![](https://badges.aleen42.com/src/node.svg)
+![](https://badges.aleen42.com/src/electron.svg)
+![](https://badges.aleen42.com/src/express.svg)
