@@ -7,9 +7,9 @@ I have done several different projects and I'm interested in programming 💫.
 
 Tech stack
 ---
-![](https://badges.aleen42.com/src/html.svg)
-![](https://badges.aleen42.com/src/css.svg)
-![](https://badges.aleen42.com/src/tailwind.svg)
+![](https://badges.aleen42.com/src/html5.svg)
+![](https://badges.aleen42.com/src/css3.svg)
+![](https://badges.aleen42.com/src/tailwindcss.svg)
 ![](https://badges.aleen42.com/src/sass.svg)
 ![](https://badges.aleen42.com/src/javascript.svg)
 ![](https://badges.aleen42.com/src/typescript.svg)
