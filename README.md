@@ -14,7 +14,7 @@ Technology Stack
 ![](https://badges.aleen42.com/src/javascript.svg)
 ![](https://badges.aleen42.com/src/typescript.svg)
 ![](https://img.shields.io/badge/Jquery-1169ae?logo=jquery&logoColor=white&style=Plastic)
-![](https://img.shields.io/badge/Alpine-1169ae?logo=jquery&logoColor=white&style=Plastic)
+![](https://img.shields.io/badge/Alpine-1169ae?logo=alpine&logoColor=white&style=Plastic)
 ![](https://badges.aleen42.com/src/vue.svg)
 ![](https://badges.aleen42.com/src/node.svg)
 ![](https://img.shields.io/badge/Electron-42A5F5?logo=electron&logoColor=white&style=Plastic)
