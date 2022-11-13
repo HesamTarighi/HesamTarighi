@@ -17,6 +17,7 @@ Technology Stack
 ![](https://badges.aleen42.com/src/vue.svg)
 ![](https://badges.aleen42.com/src/node.svg)
 ![](https://img.shields.io/badge/Electron-42A5F5?logo=electron&logoColor=white&style=Plastic)
+![](https://img.shields.io/badge/Python-42A5F5?logo=python&logoColor=white&style=Plastic)
 ![](https://img.shields.io/badge/Express-yellow?logo=express&logoColor=white&style=Plastic)
 ![](https://img.shields.io/badge/MongoDB-449a45?logo=mongodb&logoColor=white&style=Plastic)
 ![](https://img.shields.io/badge/Mysql-orange?logo=mysql&logoColor=white&style=Plastic)
