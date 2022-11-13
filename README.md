@@ -1,4 +1,4 @@
-![](https://github.com/HesamTarighi/HesamTarighi/blob/main/banner.jpg)
+![](https://github.com/HesamTarighi/HesamTarighi/blob/main/banner2.jpg)
 <!-- ![](https://komarev.com/ghpvc/?username=your-github-username&color=green) -->
 
 I'm Hesam Tarighi and I have 18 years old and I live in Iran 👦.
