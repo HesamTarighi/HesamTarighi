@@ -12,7 +12,6 @@ Technology Stack
 ![](https://badges.aleen42.com/src/tailwindcss.svg)
 ![](https://img.shields.io/badge/Sass-cf649a?logo=sass&logoColor=white&style=Plastic)
 ![](https://badges.aleen42.com/src/javascript.svg)
-![](https://badges.aleen42.com/src/typescript.svg)
 ![](https://img.shields.io/badge/Jquery-1169ae?logo=jquery&logoColor=white&style=Plastic)
 ![](https://badges.aleen42.com/src/vue.svg)
 ![](https://badges.aleen42.com/src/node.svg)
