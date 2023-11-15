@@ -1,9 +1,7 @@
 ![](https://github.com/HesamTarighi/HesamTarighi/blob/main/banner2.jpg)
 <!-- ![](https://komarev.com/ghpvc/?username=your-github-username&color=green) -->
 
-I'm Hesam Tarighi and I have 17 years old and I live in Iran 👦.
-I started the front-end almost 3 years ago and now I have mastered the front-end and back-end ⚡.
-I have done several different projects and I'm interested in programming 💫.
+I have been working in the field of web programming for 4 years and                        I am mid-level full stack web developer (back-end, front-end) and my main expertise is front-end. I can develop all kinds of modern and dynamic websites.    I have worked with several small website development teams. You can see my portfolio on my personal website                                                                                       My personal website: hesamtarighi.iran.liara.run
 
 Technology Stack
 ---
