@@ -20,3 +20,4 @@ Technology Stack
 ![](https://img.shields.io/badge/Express-yellow?logo=express&logoColor=white&style=Plastic)
 ![](https://img.shields.io/badge/MongoDB-449a45?logo=mongodb&logoColor=white&style=Plastic)
 ![](https://img.shields.io/badge/Mysql-orange?logo=mysql&logoColor=white&style=Plastic)
+![](https://badges.aleen42.com/src/react.svg)
